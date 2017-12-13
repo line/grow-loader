@@ -1,0 +1,6 @@
+# Ignore built files
+lib/*
+
+# Ignore temp files and fixtures
+**/tmp/*.js
+test/fixtures/*.js

@@ -1,0 +1,50 @@
+grow-loader
+=======
+
+Copyright 2017 LINE Corporation
+
+LINE Corporation licenses this file to you under the Apache License,
+version 2.0 (the "License"); you may not use this file except in compliance
+with the License. You may obtain a copy of the License at:
+
+  https://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS, WITHOUT
+WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the
+License for the specific language governing permissions and limitations
+under the License.
+
+
+Dependencies
+============
+
+This product depends on babel-generator, distributed by the babel authors:
+
+  * License: MIT License(https://github.com/babel/babel/blob/master/LICENSE)
+  * Homepage: https://github.com/babel/babel/tree/master/packages/babel-generator
+
+This product depends on babel-template, distributed by the babel authors:
+
+  * License: MIT License(https://github.com/babel/babel/blob/master/LICENSE)
+  * Homepage: https://github.com/babel/babel/tree/master/packages/babel-template
+
+This product depends on babel-traverse, distributed by the babel authors:
+
+  * License: MIT License(https://github.com/babel/babel/blob/master/LICENSE)
+  * Homepage: https://github.com/babel/babel/tree/master/packages/babel-traverse
+
+This product depends on babel-types, distributed by the babel authors:
+
+  * License: MIT License(https://github.com/babel/babel/blob/master/LICENSE)
+  * Homepage: https://github.com/babel/babel/tree/master/packages/babel-types
+
+This product depends on babylon, distributed by the babel authors:
+
+  * License: MIT License(https://github.com/babel/babel/blob/master/LICENSE)
+  * Homepage: https://github.com/babel/babel/tree/master/packages/babylon
+
+This product depends on loader-utils, distributed by the JS Foundation and other contributors :
+
+  * License: MIT License(https://github.com/webpack/loader-utils/blob/master/LICENSE)
+  * Homepage: https://github.com/webpack/loader-utils
