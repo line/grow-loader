@@ -1,5 +1,7 @@
 # grow-loader
 
+[![Travis CI](https://travis-ci.org/line/grow-loader.svg?branch=master)](https://travis-ci.org/line/grow-loader) [![npm version](https://badge.fury.io/js/grow-loader.svg)](https://badge.fury.io/js/grow-loader)
+
 The `grow-loader` is a webpack loader to let you split "growable" methods into separate files, by simply adding a decorator to the methods in class declarations.
 
 By "growable methods", we mean the methods that need to be dynamically imported. To learn more about dynamic import, read [this document](https://webpack.js.org/guides/code-splitting/#dynamic-imports) from webpack.
