@@ -168,7 +168,7 @@ Higher-Order Components(HOC) is a common solution in implementing code-splitting
 
 - We use different placeholder components for almost every page, but HOC solutions only support a common component for all pages.
 - Instant page transition was our ultimate goal, but the following two problems had surfaced in using HOC solutions:
-  - We organize pages in a stack—[see our blog posting on this](https://engineering.linecorp.com/ja/blog/detail/200)—the hooks provided could not be easily integrated.
+  - We organize pages in a stack—[see our blog posting on this](https://engineering.linecorp.com/en/blog/detail/235)—the hooks provided could not be easily integrated.
   - A lot of code modifications were required. Preloading pages would help our case, but preloading costs a lot in time and management. And page transition still felt janky for long pages because of DOM manipulation.
 
 That's why we decided to split every page into two parts:
