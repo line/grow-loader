@@ -1,6 +1,6 @@
 {
   "name": "grow-loader",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "a webpack loader to do code splitting on class methods",
   "main": "lib/index.js",
   "engines": {
